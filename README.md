@@ -19,3 +19,8 @@ vasicek
    `-- gof_ks()    : Performs the Kolmogorov-Smirnov GoF test for the Vasicek distribution
 ```
 
+
+#### Reference
+
+Tasche, Dirk. (2008). The Vasicek Distribution.
+
